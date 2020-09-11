@@ -1,6 +1,6 @@
 #system/bin/!
 # Recode?... silahkan
-# Klo Recode Selain admin Gw Sumpahin Lo Akan Mati!!!!!!!
+# .  ............!!!!!!!
 # wkwkwkwkwkwkwkwkwkwkwkwkwkwkwkwkwkwkwkwwkwkkwkwkwkwkwkwkwkwkwkwkwkwkwkwkwkwkwkwkwkwkekekwkekwkwkwkwkwkwkwkwkwkwkwkekekwkwkwkwk
 
 # Warna
@@ -20,7 +20,7 @@ toilet -f slant --gay "Multi Spam"
 sleep 1
 echo
 echo
-echo $daun "Tools By Bl4ck_Dr460n"
+echo $daun "THEIMMORTALHACKER"
 sleep 1
 echo $tai "Gunakan Dgn Bijak Ya Bossq"
 sleep 1
@@ -51,7 +51,7 @@ sleep 0.4
 echo $daun  "  E.Exit"
 echo $merah "[]================[]"
 echo $daun
-read -p  "[root@dr460n]>> " pilih
+read -p  ">>Tolol😂>>>>> " pilih
 if [ $pilih = "1" ] || [ $pilih = "1" ]
 then
 clear
