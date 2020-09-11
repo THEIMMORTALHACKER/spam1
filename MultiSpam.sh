@@ -1,6 +1,6 @@
 #system/bin/!
-# Jangan Recode Bossq
-# Klo Recode Selain admin Gw Sumpahin Lo Akan Mati!!!!!!!
+#...........!!!!!!!
+#............!!!!!!! 
 # wkwkwkwkwkwkwkwkwkwkwkwkwkwkwkwkwkwkwkwwkwkkwkwkwkwkwkwkwkwkwkwkwkwkwkwkwkwkwkwkwkwkekekwkekwkwkwkwkwkwkwkwkwkwkwkekekwkwkwkwk
 
 # Warna
@@ -16,13 +16,13 @@ tai='\033[33;1m' #kuning
 # Mulai Tools
 clear
 echo $tai
-toilet -f slant --gay "Multi Spam"
+toilet -f slant --gay "WR"
 sleep 1
 echo
 echo
-echo $daun "Tools By Bl4ck_Dr460n"
+echo $daun "THEIMMORTALHACKER"
 sleep 1
-echo $tai "Gunakan Dgn Bijak Ya Bossq"
+echo $tai "Gunakan Dgn Bijak Ya BossKu"
 sleep 1
 echo
 echo $putih "MENU :"
@@ -51,7 +51,7 @@ sleep 0.4
 echo $daun  "  E.Exit"
 echo $merah "[]================[]"
 echo $daun
-read -p  "[root@dr460n]>> " pilih
+read -p  "[BANGSAD.KAU]>> " pilih
 if [ $pilih = "1" ] || [ $pilih = "1" ]
 then
 clear
@@ -60,7 +60,7 @@ toilet -f slant --gay "BUKALAPAK"
 sleep 1
 echo $daun "Code By Bl4ck_Dr460n"
 sleep 1
-echo $merah "Gunakan Dgn Bijak Ya Bossq"
+echo $merah "Jangan Lupa minta maaf"
 sleep 1
 echo
 echo
@@ -76,7 +76,7 @@ toilet -f slant --gay "TSEL"
 sleep 1
 echo $daun "Code By Bl4ck_Dr460n"
 sleep 1
-echo $merah "Gunakan Dgn Bijak Ya Bossq"
+echo $merah "Jangan lupa minta maaf"
 sleep 1
 echo
 echo
@@ -92,7 +92,7 @@ toilet -f slant --gay "GRAB"
 sleep 1
 echo $daun "Code By Bl4ck_Dr460n"
 sleep 1
-echo $merah "Gunakan Dgn Bijak Ya Bossq"
+echo $merah "Jangan lupa minta maaf"
 sleep 1
 echo
 echo
@@ -108,7 +108,7 @@ toilet -f slant --gay "TokPed"
 sleep 1
 echo $daun "Code By Bl4ck_Dr460n"
 sleep 1
-echo $merah "Gunakan Dgn Bijak Ya Bossq"
+echo $merah "Jangan lupa minta maaf"
 sleep 1
 echo
 echo
@@ -124,7 +124,7 @@ toilet -f slant --gay "CodaShop"
 sleep 1
 echo $daun "Code By Bl4ck_Dr460n"
 sleep 1
-echo $merah "Gunakan Dgn Bijak Ya Bossq"
+echo $merah "Jangan lupa minta maaf"
 sleep 1
 echo
 echo
@@ -140,7 +140,7 @@ toilet -f slant --gay "INSTALL BAHAN"
 sleep 1
 echo $daun "Code By Bl4ck_Dr460n"
 sleep 1
-echo $merah "Gunakan Dgn Bijak Ya Bossq"
+echo $merah "Jangan lupa minta maaf"
 sleep 1
 echo
 echo
@@ -156,6 +156,6 @@ sleep 1
 echo $daun "Whatsapp = 089517248xxx"
 sleep 1
 echo $tai "Tunggu 5 Detik"
-sleep 5
+sleep 5 . . . .
 exit
 fi
